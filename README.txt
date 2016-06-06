@@ -1,0 +1,239 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;\f1\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red52\green52\blue52;\red255\green255\blue255;\red99\green66\blue158;
+}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl500\sa247\partightenfactor0
+
+\f0\b\fs40 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'cc\'ec\'bd\'f2\'b4\'f3\'d1\'a7\'d1\'a7\'ce\'bb\'c2\'db\'ce\'c4
+\f1 LaTeX
+\f0 \'c4\'a3\'b0\'e5
+\f1 \
+\pard\pardeftab720\sl400\sa197\partightenfactor0
+
+\f0\fs32 \cf2 \'bb\'b6\'d3\'ad\'ca\'b9\'d3\'c3
+\f1 \
+\pard\pardeftab720\sl400\sa200\partightenfactor0
+
+\f0\b0\fs26 \cf2 \'b1\'be\'cf\'ee\'c4\'bf\'d6\'bc\'d4\'da\'b4\'b4\'bd\'a8\'cc\'ec\'bd\'f2\'b4\'f3\'d1\'a7\'d1\'a7\'ce\'bb\'c2\'db\'ce\'c4\'b5\'c4
+\f1 LaTeX
+\f0 \'c4\'a3\'b0\'e5\'a3\'ac\'ce\'aa\'cc\'ec\'bd\'f2\'b4\'f3\'d1\'a7\'d1\'a7\'c9\'fa\'b5\'c4\'c2\'db\'ce\'c4\'d7\'ab\'d0\'b4\'cc\'e1\'b9\'a9\'b1\'e3\'c0\'fb\'a3\'ac\'bb\'b6\'d3\'ad\'b8\'f7\'ce\'bb\'cd\'ac\'d1\'a7\'ca\'b9\'d3\'c3\'b2\'a2\'cc\'e1\'b3\'f6\'c4\'fa\'b5\'c4\'d2\'e2\'bc\'fb\'a1\'a3\'ce\'d2\'c3\'c7\'b8\'fc\'bc\'d3\'bb\'b6\'d3\'ad\'d3\'d0\'d0\'cb\'c8\'a4\'b5\'c4\'cd\'ac\'d1\'a7\'b9\'b1\'cf\'d7\'c4\'fa\'b5\'c4\'b4\'fa\'c2\'eb\'a1\'a3\'c8\'e7\'b9\'fb\'c4\'fa\'cf\'eb\'b2\'ce\'d3\'eb\'b5\'bd\'d5\'e2\'cf\'ee\'ce\'de\'cb\'bd\'b5\'c4\'b9\'a4\'d7\'f7\'d6\'d0\'a3\'ac\'c7\'eb\'c1\'aa\'cf\'b5
+\f1 tjuthesis@gmail.com.\
+TeX
+\f0 \'ca\'c7\'d2\'bb\'b8\'f6\'c5\'c5\'b0\'e6\'cf\'b5\'cd\'b3\'a3\'ac\'b7\'c7\'b3\'a3\'ca\'ca\'ba\'cf\'d3\'c3\'c0\'b4\'c5\'c5\'b0\'e6\'d1\'a7\'ca\'f5\'c0\'e0\'ce\'c4\'d5\'c2\'a1\'a2\'b1\'a8\'b8\'e6\'ba\'cd\'ca\'e9\'bc\'ae\'b5\'c8\'a1\'a3\'cb\'fc\'b5\'c4\'cb\'f9\'cf\'eb\'bc\'b4\'cb\'f9\'b5\'c3\'b5\'c4\'c4\'a3\'ca\'bd\'ca\'b9\'b5\'c3\'d7\'f7\'d5\'df\'c4\'dc\'b9\'bb\'bd\'ab\'be\'ab\'c1\'a6\'cd\'b6\'c8\'eb\'b5\'bd\'c4\'da\'c8\'dd\'b5\'c4\'b1\'e0\'d0\'b4\'c9\'cf\'b6\'f8\'b2\'bb\'ca\'c7\'c5\'c5\'b0\'e6\'c9\'cf\'a1\'a3\'b5\'c3\'d2\'e6\'d3\'da\'c6\'e4\'c7\'bf\'b4\'f3\'b5\'c4\'cb\'e3\'b7\'a8\'a3\'ac
+\f1 TeX
+\f0 \'cf\'b5\'cd\'b3\'c5\'c5\'b0\'e6\'b3\'f6\'c0\'b4\'b5\'c4\'d0\'a7\'b9\'fb\'b1\'c8\'c6\'e4\'cb\'fb\'c5\'c5\'b0\'e6\'c8\'ed\'bc\'fe\'b8\'df\'b5\'c3\'b6\'e0\'a3\'ac\'c4\'dc\'c8\'c3\'c4\'fa\'b5\'c4\'d7\'f7\'c6\'b7\'d2\'d4\'b8\'fc\'bc\'d3\'c6\'af\'c1\'c1\'a3\'ac\'b8\'fc\'bc\'d3\'b8\'f6\'d0\'d4\'bb\'af\'b5\'c4\'d0\'ce\'ca\'bd\'b3\'ca\'cf\'d6\'d4\'da\'b6\'c1\'d5\'df\'c3\'e6\'c7\'b0\'a1\'a3
+\f1 \
+\pard\pardeftab720\sl400\sa197\partightenfactor0
+
+\f0\b\fs32 \cf2 \'b1\'be\'d1\'a7\'ce\'bb\'c2\'db\'ce\'c4\'c4\'a3\'b0\'e5\'cc\'d8\'c9\'ab
+\f1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\partightenfactor0
+\ls1\ilvl0
+\b0\fs26 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}
+\f0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'d3\'c9\'d3\'da
+\f1 LaTeX
+\f0 \'cf\'b5\'cd\'b3\'b5\'c4\'bf\'e7\'c6\'bd\'cc\'a8\'d0\'d4\'a3\'ac\'bf\'c9\'d4\'cb\'d0\'d0\'d3\'da
+\f1 Windows
+\f0 \'a1\'a2
+\f1 Linux
+\f0 \'a1\'a2
+\f1 Mac
+\f0 \'b5\'c8\'b2\'d9\'d7\'f7\'cf\'b5\'cd\'b3\'a3\'bb
+\f1 \cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}
+\f0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'d3\'c9\'d3\'da
+\f1 LaTeX
+\f0 \'cf\'b5\'cd\'b3\'b1\'be\'c9\'ed\'b5\'c4\'b0\'b2\'c8\'ab\'d0\'d4\'a3\'ac\'b2\'bb\'bb\'e1\'b3\'f6\'cf\'d6\'b2\'bb\'ce\'c8\'b6\'a8\'a1\'a2\'d6\'d0\'b2\'a1\'b6\'be\'bc\'b0\'ce\'c4\'bc\'fe\'cb\'f0\'bb\'b5\'b5\'c4\'cf\'d6\'cf\'f3\'a3\'bb
+\f1 \cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}
+\f0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'b2\'bb\'cd\'ac\'d3\'da
+\f1 Microsoft Word,LaTeX
+\f0 \'cf\'b5\'cd\'b3\'be\'df\'d3\'d0\'b5\'c4\'cb\'f9\'cf\'eb\'bc\'b4\'cb\'f9\'b5\'c3\'b5\'c4\'c5\'c5\'b0\'e6\'b7\'bd\'ca\'bd\'a3\'ac\'d7\'f7\'d5\'df\'bf\'c9\'d2\'d4\'b8\'fc\'d7\'a8\'d7\'a2\'d3\'da\'c2\'db\'ce\'c4\'c4\'da\'c8\'dd\'a3\'ac\'b4\'d3\'b6\'f8\'bd\'da\'ca\'a1\'b4\'f3\'c1\'bf\'c5\'c5\'b0\'e6\'ca\'b1\'bc\'e4\'a3\'bb
+\f1 \cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}
+\f0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'d3\'c9\'d3\'da
+\f1 LaTeX
+\f0 \'c4\'a3\'b0\'e5\'b5\'c4\'d7\'d4\'b6\'af\'d0\'d4\'a3\'ac\'cd\'ea\'c8\'ab\'b2\'bb\'d3\'c3\'d7\'d4\'bc\'ba\'ca\'d6\'b6\'af\'b5\'f7\'d5\'fb\'c2\'db\'ce\'c4\'b8\'f1\'ca\'bd\'a3\'bb
+\f1 \cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}
+\f0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'b8\'f1\'ca\'bd\'d2\'d1\'be\'ad\'cd\'ea\'c8\'ab\'b6\'a8\'d6\'c6\'a3\'ac\'d6\'bb\'d0\'e8\'d4\'da\'d4\'b4\'ce\'c4\'bc\'fe\'d6\'d0\'cc\'ee\'b3\'e4\'d7\'d4\'bc\'ba\'b5\'c4\'c4\'da\'c8\'dd\'a3\'ac\'cd\'ea\'c8\'ab\'b2\'bb\'d3\'c3\'bf\'bc\'c2\'c7\'c2\'db\'ce\'c4\'b8\'f1\'ca\'bd\'ce\'ca\'cc\'e2\'a3\'bb
+\f1 \cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}
+\f0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'c2\'db\'ce\'c4\'b7\'e2\'c3\'e6\'a1\'a2\'d6\'d0\'d3\'a2\'ce\'c4\'d5\'aa\'d2\'aa\'a3\'ac\'d6\'d0\'ce\'c4\'c4\'bf\'c2\'bc\'a1\'a2\'cd\'bc\'b1\'ed\'c4\'bf\'c2\'bc\'a1\'a2\'ca\'e9\'c7\'a9\'a1\'a2\'d2\'b3\'c3\'bc\'d2\'b3\'bd\'c5\'b5\'c8\'cd\'ac\'ca\'b1\'d7\'d4\'b6\'af\'c9\'fa\'b3\'c9\'a3\'bb
+\f1 \cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}
+\f0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'b9\'ab\'ca\'bd\'a1\'a2\'cd\'bc\'d0\'ce\'a1\'a2\'b1\'ed\'b8\'f1\'a1\'a2\'b2\'ce\'bf\'bc\'ce\'c4\'cf\'d7\'b5\'c8\'d7\'d4\'b6\'af\'b1\'e0\'ba\'c5\'a1\'a2\'bd\'bb\'b2\'e6\'d2\'fd\'d3\'c3\'b7\'bd\'b1\'e3\'a3\'bb
+\f1 \cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}
+\f0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'c9\'fa\'b3\'c9
+\f1 PDF
+\f0 \'b8\'f1\'ca\'bd\'c2\'db\'ce\'c4\'a3\'ac\'d7\'a8\'d2\'b5\'a1\'a2\'c3\'c0\'b9\'db\'a3\'bb
+\f1 \cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}
+\f0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'cc\'e1\'b9\'a9\'b0\'fc\'c0\'a8
+\f1 dvipdfmx
+\f0 \'a3\'ac
+\f1 pdflatex
+\f0 \'b6\'e0\'d6\'d6\'c9\'fa\'b3\'c9
+\f1 pdf
+\f0 \'ce\'c4\'bc\'fe\'b5\'c4\'b7\'bd\'ca\'bd\'a3\'bb
+\f1 \cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}
+\f0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'cc\'ec\'bd\'f2\'b4\'f3\'d1\'a7
+\f1 LaTeX
+\f0 \'cd\'c5\'b6\'d3\'cc\'e1\'b9\'a9\'b3\'a4\'c6\'da\'d6\'a7\'b3\'d6\'a1\'a3
+\f1 \cb1 \
+\pard\pardeftab720\sl400\sa197\partightenfactor0
+
+\f0\b\fs32 \cf2 \cb3 \'b3\'a3\'bc\'fb\'ce\'ca\'cc\'e2
+\f1 \
+\pard\pardeftab720\sl400\sa200\partightenfactor0
+
+\f0\b0\fs26 \cf2 \'d4\'da\'ca\'b9\'d3\'c3\'c4\'a3\'b0\'e5\'b5\'c4\'b9\'fd\'b3\'cc\'d6\'d0\'c8\'e7\'b9\'fb\'d3\'f6\'b5\'bd\'ce\'ca\'cc\'e2\'c7\'eb\'cf\'c8\'b2\'ce\'bf\'bc
+\f1 TJUThesis
+\f0 \'c4\'a3\'b0\'e5\'ca\'b9\'d3\'c3\'cb\'b5\'c3\'f7\'ba\'cd{\field{\*\fldinst{HYPERLINK "http://www.ctex.org/CTeXFAQ/files.xml?action=download&file=ctex-faq.pdf"}}{\fldrslt 
+\f1 \cf4 \strokec4 CTEX-FAQ.pdf}}
+\f1 . 
+\f0 \'c8\'e7\'b9\'fb\'ce\'ca\'cc\'e2\'c3\'bb\'d3\'d0\'b5\'c3\'b5\'bd\'bd\'e2\'be\'f6\'a3\'ac\'c4\'fa\'bf\'c9\'d2\'d4\'d3\'eb\'ce\'d2\'c3\'c7\'c8\'a1\'b5\'c3\'c1\'aa\'cf\'b5\'a1\'a3
+\f1 \
+
+\f0 \'b8\'c3\'b0\'e6\'b1\'be\'c4\'bf\'c7\'b0\'d2\'d1\'cd\'ea\'d5\'fb\'d6\'a7\'b3\'d6\'b1\'be\'bf\'c6\'c2\'db\'ce\'c4\'a3\'ac\'cb\'b6\'ca\'bf\'c2\'db\'ce\'c4\'ba\'cd\'b2\'a9\'ca\'bf\'c2\'db\'ce\'c4\'a1\'a3
+\f1 \
+\pard\pardeftab720\sl400\sa197\partightenfactor0
+
+\f0\b\fs32 \cf2 \'b0\'e6\'b1\'be\'c0\'fa\'ca\'b7
+\f1 \
+\pard\pardeftab720\sl400\sa200\partightenfactor0
+
+\b0\fs26 \cf2 V1.0.4
+\f0 \'a3\'ac
+\f1 2012/06/11 
+\f0 \'b8\'f1\'ca\'bd\'d0\'de\'b8\'c4\'a3\'ac\'cd\'ac\'ca\'b1\'c4\'da\'c8\'dd\'bd\'f8\'d2\'bb\'b2\'bd\'cd\'ea\'c9\'c6
+\f1  * Bachelor: 
+\f0 \'d0\'de\'b8\'c4\'c1\'cb\'b2\'ce\'bf\'bc\'ce\'c4\'cf\'d7\'b5\'c4\'b8\'f1\'ca\'bd\'b4\'ed\'ce\'f3\'a3\'bb\'d2\'b3\'c3\'e6\'c9\'e8\'d6\'c3\'b5\'f7\'bd\'da\'b3\'c9\'ba\'cd
+\f1 word
+\f0 \'d2\'bb\'d1\'f9\'a3\'bb\'d7\'d6\'cc\'e5\'d6\'ae\'bc\'e4\'b5\'c4\'cb\'ae\'c6\'bd\'bc\'e4\'b8\'f4\'b5\'f7\'bd\'da\'b3\'c9\'ba\'cd
+\f1 word
+\f0 \'d2\'bb\'d1\'f9\'a3\'bb\'d0\'de\'b8\'c4\'c1\'cb\'ce\'c4\'d6\'d0\'b2\'bf\'b7\'d6\'b5\'c4\'d7\'d6\'cc\'e5\'a3\'bb\'d4\'f6\'bc\'d3\'c1\'cb\'b4\'fa\'c2\'eb\'bb\'b7\'be\'b3\'ba\'cd\'cb\'e3\'b7\'a8\'bb\'b7\'be\'b3\'a3\'bb\'b1\'ed\'b8\'f1\'d6\'a7\'b3\'d6\'d7\'d4\'b6\'af\'bb\'bb\'d0\'d0\'ba\'f3\'be\'d3\'d6\'d0\'a3\'ac\'d7\'f3\'b6\'d4\'c6\'eb\'ba\'cd\'d3\'d2\'b6\'d4\'c6\'eb\'a3\'bb\'b3\'fd\'c8\'a5\'c1\'cb\'d6\'c2\'d0\'bb\'b4\'a6\'b5\'c4\'d2\'b3\'c2\'eb\'a3\'bb\'cd\'ea\'c9\'c6\'c1\'cb\'d3\'c3\'bb\'a7\'d6\'b8\'c4\'cf\'ca\'d6\'b2\'e1\'a1\'a3
+\f1  V1.0.3
+\f0 \'a3\'ac
+\f1  
+\f0 \'b4\'ed\'ce\'f3\'d0\'de\'b8\'c4\'a3\'ac\'cd\'ac\'ca\'b1\'c4\'da\'c8\'dd\'bd\'f8\'d2\'bb\'b2\'bd\'cd\'ea\'c9\'c6
+\f1  * Bachelor(2012/05/15): 
+\f0 \'d0\'de\'b8\'c4\'c1\'cb\'b2\'ce\'bf\'bc\'ce\'c4\'cf\'d7\'b5\'c4\'b8\'f1\'ca\'bd\'b4\'ed\'ce\'f3\'a3\'bb\'d6\'a7\'b3\'d6
+\f1 \\subsubsection
+\f0 \'d6\'b8\'c1\'ee\'b5\'c4\'ca\'b9\'d3\'c3\'a3\'bb\'cc\'ed\'bc\'d3\'c1\'cb\'d2\'bb\'bc\'fc\'b1\'e0\'d2\'eb\'b5\'c4\'c5\'fa\'b4\'a6\'c0\'ed\'ce\'c4\'bc\'fe\'a3\'bb\'cc\'ed\'bc\'d3\'c1\'cb\'d2\'bb\'bc\'fc\'c9\'fa\'b3\'c9
+\f1  pdf 
+\f0 \'b5\'c4\'c5\'fa\'b4\'a6\'c0\'ed\'ce\'c4\'bc\'fe\'a3\'bb\'d6\'a7\'b3\'d6\'ca\'fd\'d1\'a7\'d6\'d0\'b5\'c4\'d0\'d4\'d6\'ca\'bb\'b7\'be\'b3\'a3\'bb\'cd\'ea\'c9\'c6\'c1\'cb\'d3\'c3\'bb\'a7\'d6\'b8\'c4\'cf\'ca\'d6\'b2\'e1\'a1\'a3
+\f1  * Master(2012/11/15): 
+\f0 \'b5\'f7\'d5\'fb\'d2\'b3\'c3\'e6\'c9\'e8\'d6\'c3\'d3\'eb
+\f1 word
+\f0 \'cf\'e0\'cb\'c6\'a3\'bb\'d0\'de\'b8\'c4\'c1\'cb
+\f1 1.0.2
+\f0 \'b0\'e6\'b1\'be\'d6\'d0\'b6\'c0\'b4\'b4\'d0\'d4\'c9\'ea\'c3\'f7\'b5\'c4\'b8\'f1\'ca\'bd\'b4\'ed\'ce\'f3\'a3\'bb\'c9\'e8\'d6\'c3\'d7\'ee\'ba\'f3\'d7\'dc\'bd\'e1\'ba\'cd\'d5\'b9\'cd\'fb\'d5\'c2\'bd\'da\'ce\'aa\'b1\'e0\'ba\'c5\'d5\'c2\'bd\'da\'a1\'a3
+\f1  V1.0.2
+\f0 \'a3\'ac
+\f1  
+\f0 \'c4\'da\'c8\'dd\'cd\'ea\'c9\'c6
+\f1  * Bachelor(2012/05/05): 
+\f0 \'cd\'ac\'ca\'b1\'d6\'a7\'b3\'d6\'b1\'be\'bf\'c6\'c9\'fa\'b1\'cf\'d2\'b5\'c2\'db\'ce\'c4\'c4\'a3\'b0\'e5\'ba\'cd\'b1\'be\'bf\'c6\'c9\'fa\'b1\'cf\'d2\'b5\'c9\'e8\'bc\'c6\'c4\'a3\'b0\'e5\'a3\'bb\'bc\'d3\'c8\'eb\'c1\'cb\'b6\'d4\'c8\'ce\'ce\'f1\'ca\'e9\'ba\'cd\'bf\'aa\'cc\'e2\'b1\'a8\'b8\'e6\'b8\'f1\'ca\'bd\'b5\'c4\'d6\'a7\'b3\'d6\'a3\'bb
+\f1  
+\f0 \'cd\'ea\'c9\'c6\'c1\'cb\'b6\'d4\'ba\'f3\'c6\'da\'b9\'a4\'d7\'f7\'b5\'c4\'b9\'e6\'bb\'ae\'a3\'bb\'b5\'f7\'d5\'fb\'c1\'cb\'b8\'f6\'b1\'f0\'d2\'b3\'c3\'e6\'b5\'c4\'d2\'b3\'c3\'bc\'d2\'b3\'bd\'c5\'a1\'a3
+\f1  * Master(2012/11/10): 
+\f0 \'d0\'de\'b8\'c4\'c1\'cb\'b2\'ce\'bf\'bc\'ce\'c4\'cf\'d7\'b5\'c4\'b2\'bf\'b7\'d6\'b8\'f1\'ca\'bd\'b4\'ed\'ce\'f3\'a3\'bb\'b5\'f7\'d5\'fb\'c1\'cb\'b8\'f1\'ca\'bd\'d6\'d0\'d7\'d3\'cd\'bc\'d2\'fd\'d3\'c3\'a1\'a2\'d2\'b3\'c3\'e6\'c9\'e8\'d6\'c3\'ba\'cd\'b1\'ea\'cc\'e2\'d7\'d6\'cc\'e5\'a3\'bb\'cc\'ed\'bc\'d3\'c1\'cb\'d2\'bb\'bc\'fc\'b1\'e0\'d2\'eb\'b5\'c4\'c5\'fa\'b4\'a6\'c0\'ed\'ce\'c4\'bc\'fe\'a1\'a3
+\f1  V1.0.1
+\f0 \'a3\'ac
+\f1 2012/05/03 
+\f0 \'b8\'f1\'ca\'bd\'ce\'a2\'b5\'f7
+\f1  * Bachelor: 
+\f0 \'d1\'cf\'b8\'f1\'b0\'b4\'d5\'d5\'bd\'cc\'ce\'f1\'b4\'a6\'b7\'a2\'b2\'bc\'b5\'c4\'b1\'be\'bf\'c6\'d1\'a7\'ce\'bb\'c2\'db\'ce\'c4\'b8\'f1\'ca\'bd\'d2\'aa\'c7\'f3\'a3\'ba\'d6\'d0\'d3\'a2\'ce\'c4\'d5\'aa\'d2\'aa\'b3\'fd\'c8\'a5\'c1\'cb\'d2\'b3\'c3\'bc\'d2\'b3\'c2\'eb\'a3\'bb\'c4\'bf\'c2\'bc\'c9\'be\'b3\'fd\'d2\'b3\'c3\'bc\'a3\'ac\'b1\'a3\'c1\'f4\'d2\'b3\'c2\'eb\'a3\'bb
+\f1  
+\f0 \'b1\'e0\'d2\'eb\'b7\'bd\'ca\'bd\'d6\'a7\'b3\'d6
+\f1 pdflatex
+\f0 \'b1\'e0\'d2\'eb\'a3\'bb\'cc\'ed\'bc\'d3\'c3\'fc\'c1\'ee\'d0\'d0\'b2\'d9\'d7\'f7\'d6\'b8\'c1\'ee\'cb\'b5\'c3\'f7\'a1\'a3
+\f1  * Master: 
+\f0 \'d3\'a2\'ce\'c4\'b1\'ea\'cc\'e2\'d0\'d0\'be\'e0\'b5\'f7\'d5\'fb\'ba\'f3\'b8\'fc\'bc\'d3\'c3\'c0\'b9\'db\'a3\'bb\'d6\'d0\'ce\'c4\'c8\'d5\'c6\'da\'b8\'f1\'ca\'bd\'bf\'c9\'d1\'a1\'d4\'f1\'d0\'d4\'ca\'e4\'c8\'eb\'a3\'bb\'d0\'de\'d5\'fd\'c1\'cb\'c4\'a3\'b0\'e5\'ca\'b9\'d3\'c3\'cb\'b5\'c3\'f7\'b5\'c4\'c9\'d9\'ca\'fd\'b2\'bb\'b9\'e6\'b7\'b6\'d3\'c3\'d3\'ef\'a3\'bb
+\f1  
+\f0 \'b1\'e0\'d2\'eb\'b7\'bd\'ca\'bd\'d6\'a7\'b3\'d6
+\f1 pdflatex
+\f0 \'b7\'bd\'ca\'bd\'a3\'bb\'cc\'ed\'bc\'d3\'c3\'fc\'c1\'ee\'d0\'d0\'b2\'d9\'d7\'f7\'d6\'b8\'c1\'ee\'cb\'b5\'c3\'f7\'a1\'a3
+\f1  * Ph.D.: 
+\f0 \'d3\'a2\'ce\'c4\'b1\'ea\'cc\'e2\'d0\'d0\'be\'e0\'b5\'f7\'d5\'fb\'ba\'f3\'b8\'fc\'bc\'d3\'c3\'c0\'b9\'db\'a3\'bb\'d6\'d0\'ce\'c4\'c8\'d5\'c6\'da\'b8\'f1\'ca\'bd\'bf\'c9\'d1\'a1\'d4\'f1\'d0\'d4\'ca\'e4\'c8\'eb\'a3\'bb\'d6\'a7\'b3\'d6\'cb\'ab\'c3\'e6\'b4\'f2\'d3\'a1\'a3\'bb\'b8\'f7\'d5\'c2\'ca\'d7\'d2\'b3\'b5\'c4\'d2\'b3\'c2\'eb\'b4\'d3\'c6\'e6\'ca\'fd\'d2\'b3\'bf\'aa\'ca\'bc\'a3\'bb
+\f1  
+\f0 \'c5\'bc\'ca\'fd\'bf\'d5\'b0\'d7\'d2\'b3\'c9\'cf\'c3\'bb\'d3\'d0\'d2\'b3\'c3\'bc\'ba\'cd\'d2\'b3\'bd\'c5\'a3\'bb
+\f1  
+\f0 \'b1\'e0\'d2\'eb\'b7\'bd\'ca\'bd\'d6\'a7\'b3\'d6
+\f1 pdflatex
+\f0 \'b7\'bd\'ca\'bd\'a3\'bb\'cc\'ed\'bc\'d3\'c3\'fc\'c1\'ee\'d0\'d0\'b2\'d9\'d7\'f7\'d6\'b8\'c1\'ee\'cb\'b5\'c3\'f7\'a1\'a3
+\f1 \
+V1.0
+\f0 \'a3\'ac
+\f1 2012/04/25 
+\f0 \'b3\'f5\'ca\'bc\'b7\'a2\'b2\'bc
+\f1  * 
+\f0 \'cd\'ea\'d5\'fb\'d6\'a7\'b3\'d6\'b1\'be\'bf\'c6\'c2\'db\'ce\'c4\'a3\'ac\'cb\'b6\'ca\'bf\'c2\'db\'ce\'c4\'ba\'cd\'b2\'a9\'ca\'bf\'c2\'db\'ce\'c4\'a1\'a3
+\f1 \
+\pard\pardeftab720\sl500\sa247\partightenfactor0
+
+\b\fs40 \cf2 The LaTeX template of Tianjin University Thesis(Bachelor, Master, Ph.D., etc)\
+\pard\pardeftab720\sl400\sa197\partightenfactor0
+
+\fs32 \cf2 Welcome\
+\pard\pardeftab720\sl400\sa200\partightenfactor0
+
+\b0\fs26 \cf2 The TJUThesis project aims at establishing the LaTeX template for Tianjin University Thesis and offering the convenience to the students of their thesis writing. Youare welcomed toapply this template into your thesis writing. Providing your advice and coding for this project are rather appreciated. If you want to join in this selfless work, please don't hesitate to contact us: tjuthesis@gmail.com.\
+TeX, a delicate document preparation system, is well suited to typeset academic articles, report and books. Due to its What-You-See-Is-What-You-Get mode, writersare empowered tofocus on the content and the details of the article rather than spending a lot of time on the typesetting.\
+The performance of the TeX system is much better than other document formatting software because ofits powerful algorithm. As a result,your work will be endowed with beautiful and unique taste.\
+\pard\pardeftab720\sl400\sa197\partightenfactor0
+
+\b\fs32 \cf2 The characteristics of the dissertation template:\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl400\partightenfactor0
+\ls2\ilvl0
+\b0\fs26 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The system could work on multiple operating systems, such as Windows, Linux, Mac, etc, because of the cross-platform capacity of LaTeX.\cb1 \
+\ls2\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The system can hardly encounter the unstable, virus-infected or file-cracked phenomena, owing to the inherent security of LaTeX.\cb1 \
+\ls2\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Unlike Word, the What-You-See-Is-What-You-Get working mode enables the author to concentrate more on the article itself, without manually adjusting the format.\cb1 \
+\ls2\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The cover, the abstract(Chinese and English),table of contents, list of figures and tables, pdfbookmarks as well as the page header and footer of the whole article could be produced automatically.\cb1 \
+\ls2\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The numbering of the equations, figures, tables and references could be automatically generated, which makes it convenient to realize cross reference.\cb1 \
+\ls2\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Beautiful, elegant, professional PDF format.\cb1 \
+\ls2\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Offering multiple compiling ways to generate PDF files, including dvipdfmx, and pdflatex.\cb1 \
+\ls2\ilvl0\cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The enduring support of TJU LaTeX group.\cb1 \
+\pard\pardeftab720\sl400\sa197\partightenfactor0
+
+\b\fs32 \cf2 \cb3 FAQ\
+\pard\pardeftab720\sl400\sa200\partightenfactor0
+
+\b0\fs26 \cf2 If you encounter problems, please read the manual to the users of the TJUThesis and the {\field{\*\fldinst{HYPERLINK "http://www.ctex.org/CTeXFAQ/files.xml?action=download&file=ctex-faq.pdf"}}{\fldrslt \cf4 \strokec4 CTEX-FAQ.pdf}}. If the problem is pending, please be free to contact us.\
+At present, this version supports Bachelor Thesis,Master Thesis and Ph.D. Thesis.\
+\pard\pardeftab720\sl400\sa197\partightenfactor0
+
+\b\fs32 \cf2 Version History\
+\pard\pardeftab720\sl400\sa200\partightenfactor0
+
+\b0\fs26 \cf2 V1.0.4, 2012/06/11 Format Correction and Further Content Perfection * Bachelor: Corrected the error in the format of bibliography; Adjusted the page configuration; Adjusted the character horizontal space; Corrected the font type;Supported code environment and algorithm environment;Erased the page foot of the acknowledgement page;Further perfected the user's guide.\
+V1.0.3, Error Correction and Further Content Perfection * Bachelor(2012/05/15): Corrected the Error in the format of bibliography; Supported the \\subsubsection command; Added a batch file which enables one-button compilation; Added a batch file which enables one-button pdf making; Supported the property environment in mathematics domain; Further perfected the user's guide. * Master(2012/11/15): Adjusted the pages settings; Corrected the minor errors in the format of declarations; Numbered the chapter of conclusion. V1.0.2, Content Perfection * Bachelor(2012/05/05): Supported both the templates for graduation thesis and graduation design; Added the formats of mission order and thesis proposal; Updated the planning of subsequent work; Adjusted the header and footer of some pages. * Master(2012/11/10): Corrected the Error in the format of bibliography; Adjusted the pages settings, subfigure reference and header fonts;Added a batch file to support one-button compilation; V1.0.1, 2012/05/03 Format Slight Adjustment * Bachelor: The page header and footer of Chinese abstract, English abstract and Contents strictly sticked to the formulated format of Office of Undergraduate Affairs. * Master: Adjusted the line space of English title for elegant look, supported optionally entering date in Chinese format and modified some phrases in the template. * Ph.D.: Adjusted the line space of English title for elegant look, and supported optionally entering date in Chinese format, double page printing and new chapter starting with page in odd numbers. * Supported pdflatex compiling and instructions of command line operation in bachelor, master and Ph.D. thesis.\
+V1.0, 2012/04/25 Tentative Release * Fully support the bachelor thesis, mater thesis and Ph.D. thesis.\
+}
